@@ -1,0 +1,6 @@
+--pre
+aiogram==3.0.0b5
+python-dotenv==0.21.0
+pydantic~=1.10.4
+apscheduler==3.9.1.post1
+sqlalchemy
